@@ -1,4 +1,5 @@
 FactoryGirl.define do
+
   factory :post do
     date Date.today
     rationale "Some other Rationale"
